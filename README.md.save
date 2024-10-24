@@ -1,0 +1,38 @@
+# Repositorio de Desafíos de NLP
+
+## Descripción General
+Este repositorio contiene cinco desafíos de Procesamiento de Lenguaje Natural (NLP), cada uno enfocado en diferentes modelos y técnicas de aprendizaje automático. Cada desafío se aborda de manera individual en su propia carpeta, con su código, README y archivo de requisitos específicos.
+
+## Estructura del Repositorio
+- **Desafio_1/**: Clasificación de texto con modelos básicos. 
+  - Implementación de un modelo de clasificación de texto sencillo para análisis de sentimientos.
+- **Desafio_2/**: Chatbot basado en LSTM para Preguntas y Respuestas.
+  - Desarrollo de un chatbot básico utilizando una arquitectura LSTM.
+- **Desafio_3/**: Análisis de sentimiento con técnicas avanzadas de NLP.
+  - Implementación de un modelo de análisis de sentimientos utilizando técnicas de embeddings y redes neuronales.
+- **Desafio_4/**: Traductor de secuencias utilizando un modelo Seq2Seq con embeddings.
+  - Creación de un traductor de idiomas utilizando una arquitectura Seq2Seq con embeddings preentrenados.
+- **Desafio_5/**: Modelo de Preguntas y Respuestas (QA) con LSTM entrenado en Google Colab.
+  - Implementación de un modelo de QA basado en LSTM, entrenado en Google Colab con embeddings de FastText.
+
+## Instalación General
+Para instalar las dependencias de todos los desafíos, puedes usar los archivos `requirements.txt` de cada carpeta o instalarlos todos a la vez:
+
+```bash
+pip install -r Desafio_1/requirements.txt
+pip install -r Desafio_2/requirements.txt
+pip install -r Desafio_3/requirements.txt
+pip install -r Desafio_4/requirements.txt
+pip install -r Desafio_5/requirements.txt
+Cómo Ejecutar Cada Desafío
+
+Navega a la carpeta del desafío correspondiente.
+Abre el archivo .ipynb en Jupyter Notebook o Google Colab.
+Sigue las instrucciones del README de cada carpeta para más detalles sobre el uso y configuración.
+Autor
+
+William Andrés Prada Mancilla
+
+git add README.md
+
+
